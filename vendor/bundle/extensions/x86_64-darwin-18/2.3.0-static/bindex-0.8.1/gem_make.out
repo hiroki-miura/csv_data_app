@@ -1,0 +1,22 @@
+current directory: /Users/Owner/Desktop/rails_lesson/csv_data/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/Owner/.rbenv/versions/2.3.7/bin/ruby -r ./siteconf20190828-17204-16dxav9.rb extconf.rb
+Ignoring bootsnap-1.4.4 because its extensions are not built.  Try: gem pristine bootsnap --version 1.4.4
+Ignoring byebug-11.0.1 because its extensions are not built.  Try: gem pristine byebug --version 11.0.1
+Ignoring childprocess-1.0.1 because its extensions are not built.  Try: gem pristine childprocess --version 1.0.1
+Ignoring ffi-1.11.1 because its extensions are not built.  Try: gem pristine ffi --version 1.11.1
+Ignoring msgpack-1.3.1 because its extensions are not built.  Try: gem pristine msgpack --version 1.3.1
+Ignoring puma-3.12.1 because its extensions are not built.  Try: gem pristine puma --version 3.12.1
+Ignoring sqlite3-1.4.1 because its extensions are not built.  Try: gem pristine sqlite3 --version 1.4.1
+creating Makefile
+
+current directory: /Users/Owner/Desktop/rails_lesson/csv_data/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Desktop/rails_lesson/csv_data/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/Owner/Desktop/rails_lesson/csv_data/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190828-17204-12h8jnx/skiptrace/internal
